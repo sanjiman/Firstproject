@@ -1,0 +1,5 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 15\obj\BNB\Debug\net5.0\Question 15.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 15\obj\BNB\Debug\net5.0\Question 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 15\obj\BNB\Debug\net5.0\Question 15.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 15\obj\BNB\Debug\net5.0\Question 15.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 15\obj\BNB\Debug\net5.0\Question 15.csproj.CoreCompileInputs.cache

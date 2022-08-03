@@ -1,0 +1,16 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.exe
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.deps.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.runtimeconfig.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.runtimeconfig.dev.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\ref\Question 12.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\bin\BNB\Debug\net5.0\Question 12.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.csproj.CoreCompileInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\ref\Question 12.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Loop\Question 12\obj\BNB\Debug\net5.0\Question 12.genruntimeconfig.cache
